@@ -50,5 +50,5 @@ Discover how to integrate human expertise into AI-driven systems. This lesson de
 Unleash the creative potential of AI agents with this lesson on content creation. You'll develop an AI-powered essay writer capable of generating structured and coherent text, showcasing the practical applications of natural language processing in AI.
 
 
-
+**Note: this is my notes on the course**
 
